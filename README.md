@@ -26,7 +26,9 @@ Tenho experiência em **React**, **Node.js** e **Express**, além de conheciment
 - Node.js  
 - Express  
 - Flask (iniciante)  
-- Python  
+- Python
+- FastAPI
+- Java  
 
 ### Frontend
 - React  
